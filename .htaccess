@@ -8,4 +8,4 @@ RewriteCond %{REQUEST_FILENAME} !-f
 # if requested path is not a valid directory, continue rewrite
 RewriteCond %{REQUEST_FILENAME} !-d
 # if you have continue to here, respond with index.html
-RewriteRule . /index.html [L]
+RewriteRule . index.html [L]
