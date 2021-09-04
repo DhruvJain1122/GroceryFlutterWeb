@@ -1,4 +1,4 @@
 {
-  "base_url": "https://groceryadmin.techsteck.com/",
-  "api_base_url": "https://groceryadmin.techsteck.com/api/"
+  "base_url": "https://demo.techsteck.com/groc/",
+  "api_base_url": "https://demo.techsteck.com/groc/api/"
 }
